@@ -1,0 +1,21 @@
+{
+  "name": "jnstcyr",
+  "version": "0.0.0",
+  "description": "webpage",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnstcyr/drupal.git"
+  },
+  "author": "Jennifer StCyr",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jnstcyr/drupal/issues"
+  },
+  "keywords": [
+    "webpage"
+  ]
+}
